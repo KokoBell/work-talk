@@ -2,18 +2,18 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://worktalk.co.za',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Work Talk',
+        'description' => 'A website for political discourse and ',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Work Talk',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'twitter' => 'https://twitter.com/tumeloAK',
+        'github' => 'https://github.com/KokoBell',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
