@@ -1,5 +1,5 @@
 [build]
 
-command = "next build && next export"
+command = "npm run next build && npm run next export"
 publish = "build_production"
 environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
