@@ -9,7 +9,7 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Work Talk',
+        'name' => 'Liso Mdutyana',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/tumeloAK',
