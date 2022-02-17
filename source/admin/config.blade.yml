@@ -3,6 +3,12 @@ backend:
   branch: master
   squash_merges: true
 publish_mode: editorial_workflow
+media_folder: images
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: {{ $page->services->cloudinary->cloudName }}
+    api_key: {{ $page->services->cloudinary->apiKey }}
 site_url: {{ $page->baseUrl }}
 collections:
   - name: "posts"
