@@ -20,6 +20,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", default: "Title"}
       - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", timeFormat: false, pickerUtc: true}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}

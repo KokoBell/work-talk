@@ -12,8 +12,8 @@ return [
         'name' => 'Liso Mdutyana',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/tumeloAK',
-        'github' => 'https://github.com/KokoBell',
+        'twitter' => 'https://twitter.com/worktalk6',
+        'facebook' => 'https://facebook.com/worktalkza',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
