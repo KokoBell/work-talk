@@ -1,4 +1,4 @@
-[![GitHub license]
+[![GitHub license]]
 
 This is the Work Talk website for Liso Mdutyana and was built with the help of Ranie Santos.
 
