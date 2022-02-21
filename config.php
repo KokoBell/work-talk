@@ -12,7 +12,7 @@ return [
         'name' => 'Liso Mdutyana',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/worktalk6',
+        'twitter' => 'https://twitter.com/worktalk_za',
         'facebook' => 'https://facebook.com/worktalkza',
     ],
     'services' => [
